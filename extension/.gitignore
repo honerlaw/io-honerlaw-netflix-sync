@@ -1,3 +1,5 @@
 dist/js/
 node_modules/
-.DS_Store
+.sass_cache/
+dist/css/*.css
+dist/css/*.css.map
